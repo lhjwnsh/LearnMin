@@ -19,3 +19,6 @@
   background: orange;
   margin-top: 20px;
 }
+.box2-hover {
+  background: blue;
+}
