@@ -1,0 +1,21 @@
+.box {
+  background-color: red;
+}
+
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: palegreen;
+}
+
+.hover-view {
+  background: purple;
+  font-size: 30px;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background: orange;
+  margin-top: 20px;
+}
